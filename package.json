@@ -1,0 +1,22 @@
+{
+  "name": "ures",
+  "version": "1.0.0",
+  "description": "projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dazsekszon/ures.git"
+  },
+  "keywords": [
+    "orai"
+  ],
+  "author": "szgm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dazsekszon/ures/issues"
+  },
+  "homepage": "https://github.com/Dazsekszon/ures#readme"
+}
